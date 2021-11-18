@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\bin\Debug\AppOffice.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\bin\Debug\AppOffice.exe
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\bin\Debug\AppOffice.pdb
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\obj\Debug\AppOffice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\obj\Debug\AppOffice.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\obj\Debug\AppOffice.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\obj\Debug\AppOffice.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\obj\Debug\AppOffice.exe
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\obj\Debug\AppOffice.pdb
+c:\users\user\documents\visual studio 2013\Projects\AppOffice\AppOffice\bin\Debug\mydb.accdb
